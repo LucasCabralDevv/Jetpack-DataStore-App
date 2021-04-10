@@ -5,4 +5,5 @@
     <string name="hint_input_value">Digite um valor</string>
     <string name="button_save">Salvar</string>
     <string name="button_read">Ler</string>
+    <string name="not_found_value_read">"Nenhum valor encontrado para a chave: %s"</string>
 </resources>
